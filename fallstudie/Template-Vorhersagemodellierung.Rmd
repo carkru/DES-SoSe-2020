@@ -1,5 +1,5 @@
 ---
-title: "Vorhersagemodellierung Fahrradvermietungen"
+title: "Vorhersagemodellierung Social Media"
 author: "Gabi Musterstudentin, Horst Vozeigestundent, Biene Maja"
 date: "`r Sys.Date()`"
 output: 
